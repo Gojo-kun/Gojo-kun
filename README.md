@@ -33,9 +33,9 @@ gojo-kun@github:~$ ./welcome.sh
 ```
 gojo-kun@github
 ```
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nll3r&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gojo-kun&show_icons=true&theme=radical)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nll3r&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gojo-kun&layout=compact&theme=radical)
 
 
 
@@ -44,7 +44,7 @@ gojo-kun@github:~$ git commit -m "bug fix (probably)"
 ```
 
 ```
-[sudo] Password for nll3r:
+[sudo] Password for gojo-kun:
 
 *******
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
