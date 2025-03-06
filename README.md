@@ -28,7 +28,7 @@ gojo-kun@github:~$ ./welcome.sh
 ⠀⠀⠀⠉⠀⡿⠁⠀⢻⡿⢿⣧⣤⣴⣿⣷⣦⣤⣴⣿⣤⣤⣴⣾⣷⣤⣤⣼⡿⣿⡏⢻⡏⣿⠘⠃
 ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠈⡃⠀⠁⠋⠀⠀
 ```
-<img align="left" src="https://i.pinimg.com/736x/92/b7/f5/92b7f5af3fa0d977cce988dbd9ef6f36.jpg" alt="sim" width="320" /> 
+<img align="left" src="https://i.pinimg.com/736x/29/0e/fb/290efbe26d94003c336e6f6bd90f2dc2.jpg" alt="sim" width="320" /> 
 
 ```
 gojo-kun@github
